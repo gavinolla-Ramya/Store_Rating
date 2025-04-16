@@ -1,4 +1,5 @@
 Store Rating
+
 A full-stack web application that enables users to rate and review stores. This project comprises a Node.js backend and a frontend interface, facilitating CRUD operations for store ratings.
 Features
 Authentication & Role-Based Access
